@@ -11,23 +11,23 @@ export class Navbar extends Component {
       <div className="navbar">
 
         <div className="title">
-          <img src="/logo_2.png" className="App-logo" alt="logo" />
+          <img src="/gh-page/logo_2.png" className="App-logo" alt="logo" />
         </div>
 
         <ul className="main">
-            <li><NavLink to="/" className="link">Getting Started</NavLink></li>
-            <li><NavLink to="/about" className="link">About us</NavLink></li>
-          <li><NavLink to="/library" className="link">UI Library</NavLink>
+            <li><NavLink to="/gh-page" className="link">Getting Started</NavLink></li>
+            <li><NavLink to="/gh-page/about" className="link">About us</NavLink></li>
+          <li><NavLink to="/gh-page/library" className="link">UI Library</NavLink>
 
               <ul className="submenu">
-                  <li><a href="/library#textbutton">Textbuttons</a></li>
-                  <li><a href="/library#iconbutton">Iconbuttons</a></li>
-                  <li><a href="/library#textinput">Textinput</a></li>
-                  <li><a href="/library#headline">Radio</a></li>
-                  <li><a href="/library#headline">Checkbox</a></li>
-                  <li><a href="/library#headline">Dropdown</a></li>
-                  <li><a href="/library#headline">Mulitselect</a></li>
-                  <li><a href="/library#headline">Multiselect Search</a></li>
+                  <li><a href="gh-page/gh-page/library#textbutton">Textbuttons</a></li>
+                  <li><a href="/gh-page/library#iconbutton">Iconbuttons</a></li>
+                  <li><a href="/gh-page/library#textinput">Textinput</a></li>
+                  <li><a href="/gh-page/library#headline">Radio</a></li>
+                  <li><a href="/gh-page/library#headline">Checkbox</a></li>
+                  <li><a href="/gh-page/library#headline">Dropdown</a></li>
+                  <li><a href="/gh-page/library#headline">Mulitselect</a></li>
+                  <li><a href="/gh-page/library#headline">Multiselect Search</a></li>
 
               </ul>
 
