@@ -8,10 +8,11 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #103040;
+  height: 80px;
   padding: 20px;
   color: white;
+  display:flex;
 }
 
 .App-title {
