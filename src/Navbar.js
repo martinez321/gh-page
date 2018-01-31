@@ -11,7 +11,7 @@ export class Navbar extends Component {
       <div className="navbar">
 
         <div className="title">
-          <img src="logo_2.png" className="App-logo" alt="logo" />
+          <img src="/logo_2.png" className="App-logo" alt="logo" />
         </div>
 
         <ul className="main">
@@ -20,14 +20,14 @@ export class Navbar extends Component {
           <li><NavLink to="/library" className="link">UI Library</NavLink>
 
               <ul className="submenu">
-                  <li><a href="/library/#textbutton">Textbuttons</a></li>
-                  <li><a href="/library/#iconbutton">Iconbuttons</a></li>
-                  <li><a href="/library/#textinput">Textinput</a></li>
-                  <li><a href="/library/#headline">Radio</a></li>
-                  <li><a href="/library/#headline">Checkbox</a></li>
-                  <li><a href="/library/#headline">Dropdown</a></li>
-                  <li><a href="/library/#headline">Mulitselect</a></li>
-                  <li><a href="/library/#headline">Multiselect Search</a></li>
+                  <li><a href="/library#textbutton">Textbuttons</a></li>
+                  <li><a href="/library#iconbutton">Iconbuttons</a></li>
+                  <li><a href="/library#textinput">Textinput</a></li>
+                  <li><a href="/library#headline">Radio</a></li>
+                  <li><a href="/library#headline">Checkbox</a></li>
+                  <li><a href="/library#headline">Dropdown</a></li>
+                  <li><a href="/library#headline">Mulitselect</a></li>
+                  <li><a href="/library#headline">Multiselect Search</a></li>
 
               </ul>
 
