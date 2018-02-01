@@ -1,7 +1,11 @@
 body{
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
+p{
+  font-family: 'Titillium Web', sans-serif;
+
+}
 .App {
 
   text-align: center;
@@ -30,6 +34,8 @@ body{
 
 
 h1{
+  font-family: 'Open Sans', sans-serif;
+
 }
 
 h2, h3, h4, h5{
@@ -49,5 +55,6 @@ hr{
 
 p{
   font-weight:300;
-  font-size:14px;
+  font-size:0.9em;
+  line-height:1.4em;
 }

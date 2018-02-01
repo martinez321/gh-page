@@ -6,3 +6,23 @@
 .content-place{
     padding: 2em;
 }
+
+
+.title-logo {
+    width: 100%;
+    display: flex;
+}
+
+.title-logo img{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.welcome-h1{
+    margin-bottom:0;
+}
+
+.welcome-h4{
+    margin-top:0;
+
+}

@@ -9,7 +9,7 @@ export class About extends Component {
                 <div className="content-place">
 
                 <h1>Why Signature UI?</h1>
-                    
+
                     <p>??Why the name, Why opensource project ...</p>
 
 

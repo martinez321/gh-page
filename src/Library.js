@@ -10,7 +10,7 @@ export class Library extends Component {
         return (
                 <div className="content-place">
 
-                    <h1 id="top">Gronda UI Library</h1>
+                    <h1 id="top">Signature UI Library</h1>
 
                     <div id="textbutton" className="lib-section">
 
@@ -20,8 +20,9 @@ export class Library extends Component {
                             <img src="/button1.png" alt="example buttons"/>
                         </div>
 
-                        <p>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
+                        <p>Just some Text ... Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
 
+                        <br/>
                         <h4> Regular Grey Button</h4>
                         <img src="/button3.png" alt="grey buttons"/>
                         <h4> Regular Green Button</h4>
@@ -48,13 +49,13 @@ export class Library extends Component {
                         <h4>Visual Specs</h4>
                         <img src="/button6.png" alt="visual specs buttons" />
 
-                        <p>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
+                        <p>Just some Text ... Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
 
                         <br/>
                         <hr/>
                         <br/>
                         <h4>Interaction Specs</h4>
-                        <p>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
+                        <p>Just some Text ... Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
 
                     </div>
 

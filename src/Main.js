@@ -14,9 +14,9 @@ import './css/Main.css';
 const Main = () => (
     <div className="content-space">
         <Switch>
-            <Route exact path='/gh-page' component={Start}/>
-            <Route path='/gh-page/about' component={About}/>
-            <Route path='/gh-page/library' component={Library}/>
+            <Route exact path='/' component={Start}/>
+            <Route path='/about' component={About}/>
+            <Route path='/library' component={Library}/>
         </Switch>
     </div>
 );

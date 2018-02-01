@@ -10,8 +10,12 @@ class Start extends Component {
                 {/*<img src="/title.png" className="title-img"/> */}
                 <div className="content-place">
 
-                    <h1>Welcome!<br/>This is our Signature UI</h1>
-                    <h4>Here we explain you how to get started with our homegrown UI-Library.</h4>
+                    <div className="title-logo">
+                        <img src="logo_ui.png"/>
+                    </div>
+
+                    <h1 className="welcome-h1">Welcome!</h1>
+                    <h4 className="welcome-h4">Here we explain you how to get started with our homegrown UI-Library.</h4>
 
                     <hr/>
 
