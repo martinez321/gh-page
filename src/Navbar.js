@@ -14,7 +14,7 @@ export class Navbar extends Component {
 
         <div className="title">
             {/* add /gh-page/ to logo path to deploy */}
-          <img src="/logo_2.png" className="App-logo" alt="logo" />
+          <img src="logo_2.png" className="App-logo" alt="logo" />
         </div>
 
         <ul className="main">

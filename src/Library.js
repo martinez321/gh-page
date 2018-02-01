@@ -17,19 +17,19 @@ export class Library extends Component {
                         <h2>Text Button</h2>
 
                         <div className="textbutton-showcase ">
-                            <img src="/button1.png" alt="example buttons"/>
+                            <img src="button1.png" alt="example buttons"/>
                         </div>
 
                         <p>Just some Text ... Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
 
                         <br/>
                         <h4> Regular Grey Button</h4>
-                        <img src="/button3.png" alt="grey buttons"/>
+                        <img src="button3.png" alt="grey buttons"/>
                         <h4> Regular Green Button</h4>
-                        <img src="/button4.png" alt="green buttons"/>
+                        <img src="button4.png" alt="green buttons"/>
 
                         <h4> Button Outline</h4>
-                        <img src="/button5.png" alt="outline buttons" width="660px"/>
+                        <img src="button5.png" alt="outline buttons" width="660px"/>
 
                         <p className="colors">Available Colors:
                             <FaCircle fill="#FFA300"/> <span className="orange">Orange</span>
@@ -47,7 +47,7 @@ export class Library extends Component {
                         <hr/>
                         <br/>
                         <h4>Visual Specs</h4>
-                        <img src="/button6.png" alt="visual specs buttons" />
+                        <img src="button6.png" alt="visual specs buttons" />
 
                         <p>Just some Text ... Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
 
