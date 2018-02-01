@@ -14,9 +14,9 @@ import './css/Main.css';
 const Main = () => (
     <div className="content-space">
         <Switch>
-            <Route exact path='/' component={Start}/>
-            <Route path='/about' component={About}/>
-            <Route path='/library' component={Library}/>
+            <Route path='/signature-ui/' component={Start}/>
+            <Route path='/signature-ui/about' component={About}/>
+            <Route path='/signature-ui/library' component={Library}/>
         </Switch>
     </div>
 );

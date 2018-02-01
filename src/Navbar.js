@@ -13,25 +13,24 @@ export class Navbar extends Component {
       <div className="navbar">
 
         <div className="title">
-            {/* add /gh-page/ to logo path to deploy */}
           <img src="logo_2.png" className="App-logo" alt="logo" />
         </div>
 
         <ul className="main">
-            <li><NavLink to="/" className="link">Getting Started</NavLink></li>
-            <li><NavLink to="/about" className="link">About Signature UI</NavLink></li>
-          <li><NavLink to="/library#top" className="link">Signature UI</NavLink>
+            <li><NavLink to="/signature-ui/" className="link">Getting Started</NavLink></li>
+            <li><NavLink to="/signature-ui/about" className="link">About Signature UI</NavLink></li>
+          <li><NavLink to="/signature-ui/library#top" className="link">Signature UI</NavLink>
 
               <ul className="submenu">
-                  <li><a href="/library#textbutton">Text Button</a></li>
-                  <li><a href="/library#iconbutton">Icon Button</a></li>
-                  <li><a href="/library#textinput">Text Input</a></li>
-                  <li><a href="/library#radio">Radio</a></li>
-                  <li><a href="/library#checkbox">Checkbox</a></li>
-                  <li><a href="/library#dropdown">Dropdown</a></li>
-                  <li><a href="/ibrary#combodropdown">Combo Dropdown</a></li>
-                  <li><a href="/library#multiselect">Mulitselect</a></li>
-                  <li><a href="/library#multiselectsearch">Multiselect Search</a></li>
+                  <li><a href="/signature-ui/library#textbutton">Text Button</a></li>
+                  <li><a href="/signature-ui/library#iconbutton">Icon Button</a></li>
+                  <li><a href="/signature-ui/library#textinput">Text Input</a></li>
+                  <li><a href="/signature-ui/library#radio">Radio</a></li>
+                  <li><a href="/signature-ui/library#checkbox">Checkbox</a></li>
+                  <li><a href="/signature-ui/library#dropdown">Dropdown</a></li>
+                  <li><a href="/signature-ui/ibrary#combodropdown">Combo Dropdown</a></li>
+                  <li><a href="/signature-ui/library#multiselect">Mulitselect</a></li>
+                  <li><a href="/signature-ui/library#multiselectsearch">Multiselect Search</a></li>
 
               </ul>
 
