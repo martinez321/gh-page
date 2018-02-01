@@ -20,7 +20,7 @@ export class Navbar extends Component {
           <li><NavLink to="/gh-page/library" className="link">UI Library</NavLink>
 
               <ul className="submenu">
-                  <li><a href="gh-page/gh-page/library#textbutton">Textbuttons</a></li>
+                  <li><a href="/gh-page/library#textbutton">Textbuttons</a></li>
                   <li><a href="/gh-page/library#iconbutton">Iconbuttons</a></li>
                   <li><a href="/gh-page/library#textinput">Textinput</a></li>
                   <li><a href="/gh-page/library#headline">Radio</a></li>
